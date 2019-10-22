@@ -11,8 +11,9 @@
 <body>
 	<header>
 		<img src="img/content/logo.png" alt="Bagel's Logo" class="logo">
+		<?php include '../resources/navigation.php'; ?>
 	</header>
-<?php include '../resources/navigation.php'; ?>
+
 	<div>
 		<p class="a"><b>"Here at Bagel's, we're not just passionate about sauce, we LIVE and BREATHE sauce. We <i>are</i> the sauce."</b><br>–<i>Saucy McSauceguy</i></p>
 	</div>

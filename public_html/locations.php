@@ -9,8 +9,9 @@
 <body>
 	<header>
 		<img src="img/content/logo.png" alt="Bagel's Logo" class="logo">
+		<?php include '../resources/navigation.php'; ?>
 	</header>
-<?php include '../resources/navigation.php'; ?>>
+
 	
 	<h1>Bagel's Gift Shop Locations</h1>
 	<h2>Des Moines Location</h2>

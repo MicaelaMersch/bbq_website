@@ -17,8 +17,9 @@
 <body>
 	<header>
 		<img src="img/content/logo.png" alt="Bagel's Logo" class="logo">
+		<?php include '../resources/navigation.php'; ?>
 	</header>
-<?php include '../resources/navigation.php'; ?>
+
     <h1>About Us</h1>
     <img src="img/content/group_photo.png" alt="Group Photo">
     <p>We are very passionate about barbecue sauce, so we made this website to advertise our amazing one of a kind sauces. Our famous sauces are made with absolute perfection, with effort and heart put into every bottle. Our world famous sauces are derived from ingredients found all over the world, from chili peppers in Australia, to the venom of secret dragon sleeping at the tip of the Himalayan Mountains. Due to all of this effort, you can be sure to get your money's worth out of our sauces. <!-- Um, don't think I'm going to include this: (Also we need to pay for college so please buy them) --></p>

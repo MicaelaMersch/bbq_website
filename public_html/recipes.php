@@ -9,8 +9,9 @@
 <body>
 	<header>
 		<img src="img/content/logo.png" alt="The Bagel's logo." class="logo">
+		<?php include '../resources/navigation.php'; ?>
 	</header>
-<?php include '../resources/navigation.php'; ?>
+
 	<div>
 		<h1>Recipes</h1>
 		<div>

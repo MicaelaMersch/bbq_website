@@ -35,7 +35,7 @@ tr:hover {
 		<img src="img/content/logo.png" alt="The Bagel's logo." class="logo">
 <?php include '../resources/navigation.php'; ?>
 	</header>
-<!-- Micaela changed the pictures of the bottles -->	
+	
 	<div style="overflow-x:auto;">
 		<h1>Products</h1>
 		<table>
